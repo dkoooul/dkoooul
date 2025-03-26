@@ -5,6 +5,12 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" alt="Django"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
+</p>
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dkoooul&show_icons=true&theme=radical&hide_border=true)](https://github.com/dkoooul)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkoooul&layout=compact&theme=radical&hide_border=true)](https://github.com/dkoooul)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=dkoooul&theme=radical&hide_border=true)](https://git.io/streak-stats)
