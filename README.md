@@ -58,9 +58,6 @@
     <a href="https://code.visualstudio.com/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VSCode" style="transition: transform 0.3s;" onmouseover="this.style.transform='rotate(10deg) scale(1.2)'" onmouseout="this.style.transform='rotate(0) scale(1)'"/>
     </a>
-    <a href="https://www.docker.com/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="Docker" style="transition: transform 0.3s;" onmouseover="this.style.transform='rotate(10deg) scale(1.2)'" onmouseout="this.style.transform='rotate(0) scale(1)'"/>
-    </a>
   </div>
 </div>
 
