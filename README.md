@@ -40,6 +40,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VSCode"/>
 </div>
 
+<br> <!-- Добавлен дополнительный отступ -->
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=00BFFF&center=true&vCenter=true&width=300&height=30&lines=Visitor+Count" alt="Visitor Count Label" />
   <img src="https://profile-counter.glitch.me/dkoooul/count.svg" alt="Visitor Count" style="margin-top: 10px;" />
