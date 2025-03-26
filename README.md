@@ -40,5 +40,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VSCode"/>
 </div>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dkoooul&label=Profile+Views&color=orange&style=flat-square" alt="Visitor counter" />
-</div>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/dkoooul/count.svg" alt="Visitor Count" />
+</p>
+
