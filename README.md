@@ -1,11 +1,13 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Привет%2C+я+[Alexander Rasskazov];Sys.Admin+%7C+C%2B%2B%2F+Programmer" alt="Приветствие" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Привет%2C+я+[Alexander Rasskazov];Sys.Admin+Student+Programmer" alt="Приветствие" 
+    
 </div>
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+
 ## 📊 GitHub Stats & Activity
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dkoooul&show_icons=true&theme=radical)](https://github.com/dkoooul)
