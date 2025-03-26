@@ -44,7 +44,3 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=00BFFF&center=true&vCenter=true&width=300&height=30&lines=Visitor+Count" alt="Visitor Count Label" />
   <img src="https://profile-counter.glitch.me/dkoooul/count.svg" alt="Visitor Count" style="margin-top: 10px;" />
 </div>
-<div align="center">
-  <h3>🎵 My VK Music</h3>
-  <iframe src="https://vk.com/widget_audios.php?user_id=331292695&width=300&height=300" width="300" height="300" frameborder="0"></iframe>
-</div>
