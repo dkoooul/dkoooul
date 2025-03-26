@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&Alexander+Rasskazov;Sys.Admin+%7C+Student+%7C+Programmer" alt="Приветствие" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF8C00&center=true&vCenter=true&width=500&height=60&lines=Alexander+Rasskazov" alt="Name" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&height=50&lines=Sys.Admin+%7C+Student+%7C+Programmer" alt="Roles" />
   
   ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -35,4 +36,8 @@
   
   <!-- Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VSCode"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" width="40" height="40" alt="CMake"/>
+</div>
