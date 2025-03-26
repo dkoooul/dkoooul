@@ -1,5 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70218&width=435&lines=I'am+Alexander+Rasskazov%2C+18+y.o)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7991A&width=435&lines=Programmer%2C+Sys.Admin%2C+student)](https://git.io/typing-svg)
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Привет%2C+я+[Alexander Rasskazov];Sys.Admin+%7C+C%2B%2B%2F+Programmer" alt="Приветствие" />
+</div>
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
